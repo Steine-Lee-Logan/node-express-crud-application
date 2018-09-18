@@ -1,4 +1,4 @@
-# Ji_Home_Node_Server
+# Simple nodejs + expressjs application
 
 ##Technical requirements
 * MySQL (Client + server);
